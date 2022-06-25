@@ -1,0 +1,6 @@
+
+<script>
+  console.log("Name: Ruth Chima");
+  console.log('Height: 161cm');
+  console.log('Country: Nigeria');
+</script>
